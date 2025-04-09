@@ -1,6 +1,6 @@
 
 #include <stdio.h>
-#include "basic_codes.h"
+#include "code.h"
 
 int main() {
     int a = 10, b = 20;
